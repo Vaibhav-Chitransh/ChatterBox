@@ -1,0 +1,1676 @@
+{
+    "categories": [
+      {
+        "category": "Education and Learning",
+        "topics": [
+          {
+            "id": 1,
+            "topic": "The benefits of online learning vs. traditional classrooms"
+          },
+          {
+            "id": 2,
+            "topic": "How EdTech is transforming education in rural areas"
+          },
+          {
+            "id": 3,
+            "topic": "Importance of vocational training in today's job market"
+          },
+          {
+            "id": 4,
+            "topic": "Is lifelong learning essential in the modern economy?"
+          },
+          {
+            "id": 5,
+            "topic": "Impact of arts and sports on student development"
+          },
+          {
+            "id": 6,
+            "topic": "Do students learn better in collaborative or competitive environments?"
+          },
+          {
+            "id": 7,
+            "topic": "Should coding be introduced in primary education?"
+          },
+          {
+            "id": 8,
+            "topic": "Pros and cons of homework in modern education"
+          },
+          {
+            "id": 9,
+            "topic": "Are standardized tests an accurate measure of intelligence?"
+          },
+          {
+            "id": 10,
+            "topic": "The role of gamification in education"
+          },
+          {
+            "id": 11,
+            "topic": "How online learning shapes self-discipline"
+          },
+          {
+            "id": 12,
+            "topic": "Importance of teacher-student interaction in virtual classrooms"
+          },
+          {
+            "id": 13,
+            "topic": "Can AI-powered tutors replace human teachers?"
+          },
+          {
+            "id": 14,
+            "topic": "How internships contribute to education"
+          },
+          {
+            "id": 15,
+            "topic": "Role of peer learning in skill development"
+          },
+          {
+            "id": 16,
+            "topic": "Benefits of interdisciplinary learning"
+          },
+          {
+            "id": 17,
+            "topic": "Indian education system: Challenges and opportunities"
+          },
+          {
+            "id": 18,
+            "topic": "Critical thinking: Should it be part of school curricula?"
+          },
+          {
+            "id": 19,
+            "topic": "The impact of diverse cultures on education"
+          },
+          {
+            "id": 20,
+            "topic": "Learning through field trips: Are they still relevant?"
+          },
+          {
+            "id": 21,
+            "topic": "Is the grading system outdated?"
+          },
+          {
+            "id": 22,
+            "topic": "Advantages of flipped classrooms"
+          },
+          {
+            "id": 23,
+            "topic": "How can gamified learning improve engagement?"
+          },
+          {
+            "id": 24,
+            "topic": "Is peer pressure helpful or harmful in academic settings?"
+          },
+          {
+            "id": 25,
+            "topic": "The role of sports in promoting leadership skills"
+          },
+          {
+            "id": 26,
+            "topic": "Should there be more focus on mental health awareness in schools?"
+          },
+          {
+            "id": 27,
+            "topic": "Impact of standardized testing on creativity"
+          },
+          {
+            "id": 28,
+            "topic": "Indian vs. Western education systems: What can they learn from each other?"
+          },
+          {
+            "id": 29,
+            "topic": "Importance of communication skills in the education system"
+          },
+          {
+            "id": 30,
+            "topic": "How extracurricular activities enhance student learning"
+          },
+          {
+            "id": 31,
+            "topic": "The role of foreign languages in early education"
+          },
+          {
+            "id": 32,
+            "topic": "Do grades encourage or discourage learning?"
+          },
+          {
+            "id": 33,
+            "topic": "How to foster creativity in classrooms"
+          },
+          {
+            "id": 34,
+            "topic": "Personal perspective on the future of education"
+          },
+          {
+            "id": 35,
+            "topic": "Is market research a necessary skill for students?"
+          },
+          {
+            "id": 36,
+            "topic": "Impact of project-based learning on student development"
+          },
+          {
+            "id": 37,
+            "topic": "Role of outdoor education in student growth"
+          },
+          {
+            "id": 38,
+            "topic": "Benefits of peer teaching among students"
+          },
+          {
+            "id": 39,
+            "topic": "Is sex education essential in schools?"
+          },
+          {
+            "id": 40,
+            "topic": "Importance of developing presentation skills"
+          },
+          {
+            "id": 41,
+            "topic": "How students can improve teamwork"
+          },
+          {
+            "id": 42,
+            "topic": "The impact of internships on learning"
+          },
+          {
+            "id": 43,
+            "topic": "Are student exchange programs effective in promoting cultural understanding?"
+          },
+          {
+            "id": 44,
+            "topic": "Impact of sports on students' academic performance"
+          },
+          {
+            "id": 45,
+            "topic": "Should students learn financial literacy in school?"
+          },
+          {
+            "id": 46,
+            "topic": "Market research skills for students: Are they necessary?"
+          },
+          {
+            "id": 47,
+            "topic": "How can students communicate effectively in group settings?"
+          },
+          {
+            "id": 48,
+            "topic": "Is blended learning the future of education?"
+          },
+          {
+            "id": 49,
+            "topic": "Can project-based learning replace traditional homework?"
+          },
+          {
+            "id": 50,
+            "topic": "The role of art and music in fostering creativity among students"
+          },
+          {
+            "id": 51,
+            "topic": "Importance of environmental education in schools"
+          },
+          {
+            "id": 52,
+            "topic": "Impact of study groups on exam performance"
+          },
+          {
+            "id": 53,
+            "topic": "How to improve time management skills among students"
+          },
+          {
+            "id": 54,
+            "topic": "Balancing extracurricular activities with academics"
+          },
+          {
+            "id": 55,
+            "topic": "How diversity can enhance classroom learning"
+          }
+        ]
+      },
+      {
+        "category": "Science, Technology and Innovation",
+        "topics": [
+          {
+            "id": 1,
+            "topic": "Are smart homes the future of living?"
+          },
+          {
+            "id": 2,
+            "topic": "Artificial Intelligence: Enhancing or replacing human creativity?"
+          },
+          {
+            "id": 3,
+            "topic": "Role of augmented reality in healthcare training"
+          },
+          {
+            "id": 4,
+            "topic": "Self-driving cars: Are they safe enough?"
+          },
+          {
+            "id": 5,
+            "topic": "Can space exploration solve Earth's resource crisis?"
+          },
+          {
+            "id": 6,
+            "topic": "The impact of wearable technology on health monitoring"
+          },
+          {
+            "id": 7,
+            "topic": "How blockchain technology can revolutionize education"
+          },
+          {
+            "id": 8,
+            "topic": "Electric vehicles vs. fuel-powered cars: Which is better for the environment?"
+          },
+          {
+            "id": 9,
+            "topic": "The ethics of gene editing"
+          },
+          {
+            "id": 10,
+            "topic": "Will virtual reality replace physical meetings in the future?"
+          },
+          {
+            "id": 11,
+            "topic": "Challenges in building quantum computers"
+          },
+          {
+            "id": 12,
+            "topic": "Role of AI in climate change research"
+          },
+          {
+            "id": 13,
+            "topic": "Impact of 3D printing on manufacturing"
+          },
+          {
+            "id": 14,
+            "topic": "Can we trust robots to care for the elderly?"
+          },
+          {
+            "id": 15,
+            "topic": "How technology is bridging communication barriers"
+          },
+          {
+            "id": 16,
+            "topic": "Artificial intelligence in healthcare: Risks and rewards"
+          },
+          {
+            "id": 17,
+            "topic": "Big data analytics and its impact on decision-making"
+          },
+          {
+            "id": 18,
+            "topic": "Role of electric vehicles in combating climate change"
+          },
+          {
+            "id": 19,
+            "topic": "Augmented reality in education: A boon or bane?"
+          },
+          {
+            "id": 20,
+            "topic": "Climate change solutions: Individual vs. collective responsibility"
+          },
+          {
+            "id": 21,
+            "topic": "Robotics in agriculture: Can they solve food scarcity?"
+          },
+          {
+            "id": 22,
+            "topic": "How scientific research shapes policy decisions"
+          },
+          {
+            "id": 23,
+            "topic": "The role of space tourism in future economies"
+          },
+          {
+            "id": 24,
+            "topic": "Renewable energy: Is it the ultimate solution to global warming?"
+          },
+          {
+            "id": 25,
+            "topic": "Ethical dilemmas of AI-driven technologies"
+          },
+          {
+            "id": 26,
+            "topic": "Can technology help solve international disputes?"
+          },
+          {
+            "id": 27,
+            "topic": "Advances in genetic engineering: How far is too far?"
+          },
+          {
+            "id": 28,
+            "topic": "Ethical concerns around self-aware robots"
+          },
+          {
+            "id": 29,
+            "topic": "The role of innovation in tackling modern society's problems"
+          },
+          {
+            "id": 30,
+            "topic": "Latest trends in sustainable technology development"
+          },
+          {
+            "id": 31,
+            "topic": "Big data: A game-changer in modern industries"
+          },
+          {
+            "id": 32,
+            "topic": "Can artificial intelligence solve future challenges?"
+          },
+          {
+            "id": 33,
+            "topic": "3D printing: Revolutionizing the manufacturing industry"
+          },
+          {
+            "id": 34,
+            "topic": "The role of drones in market research and delivery services"
+          },
+          {
+            "id": 35,
+            "topic": "Smart cities: Are they the future of urban planning?"
+          },
+          {
+            "id": 36,
+            "topic": "Advances in renewable energy: New technologies and trends"
+          },
+          {
+            "id": 37,
+            "topic": "How personal perspectives shape tech innovation"
+          },
+          {
+            "id": 38,
+            "topic": "Cybersecurity: Protecting data in the digital age"
+          },
+          {
+            "id": 39,
+            "topic": "What is the next big trend in scientific research?"
+          },
+          {
+            "id": 40,
+            "topic": "Will automation reshape industrial growth?"
+          },
+          {
+            "id": 41,
+            "topic": "How robotics are transforming the healthcare sector"
+          },
+          {
+            "id": 42,
+            "topic": "Cloud computing vs. traditional data storage"
+          },
+          {
+            "id": 43,
+            "topic": "Can artificial intelligence revolutionize education?"
+          },
+          {
+            "id": 44,
+            "topic": "Role of scientific research in combating pandemics"
+          },
+          {
+            "id": 45,
+            "topic": "The potential of blockchain beyond cryptocurrencies"
+          },
+          {
+            "id": 46,
+            "topic": "Are smart homes improving the quality of life?"
+          },
+          {
+            "id": 47,
+            "topic": "How automation is transforming transportation systems"
+          },
+          {
+            "id": 48,
+            "topic": "Technology adoption through different cultures and countries"
+          },
+          {
+            "id": 49,
+            "topic": "Can robots take over manual labor jobs effectively?"
+          },
+          {
+            "id": 50,
+            "topic": "3D printing: A revolution in healthcare and manufacturing"
+          },
+          {
+            "id": 51,
+            "topic": "Space tourism: Will it become a reality soon?"
+          },
+          {
+            "id": 52,
+            "topic": "Ethical questions about AI-generated content"
+          },
+          {
+            "id": 53,
+            "topic": "How smart devices influence human behavior"
+          },
+          {
+            "id": 54,
+            "topic": "Challenges in cybersecurity for businesses"
+          },
+          {
+            "id": 55,
+            "topic": "Impact of wearable technology on personal health"
+          },
+          {
+            "id": 56,
+            "topic": "Cloud computing vs. on-premise systems: Which is better?"
+          },
+          {
+            "id": 57,
+            "topic": "Trends in automation"
+          },
+          {
+            "id": 58,
+            "topic": "Will blockchain change the future of financial systems?"
+          },
+          {
+            "id": 59,
+            "topic": "Is the electric grid ready for sustainable energy solutions?"
+          },
+          {
+            "id": 60,
+            "topic": "Role of drones in logistics and delivery"
+          },
+          {
+            "id": 61,
+            "topic": "How technology can help combat climate change"
+          }
+        ]
+      },
+      {
+        "category": "Mental and Physical Health",
+        "topics": [
+          {
+            "id": 1,
+            "topic": "Mental health awareness: Breaking the stigma"
+          },
+          {
+            "id": 2,
+            "topic": "Importance of physical activity in a sedentary lifestyle"
+          },
+          {
+            "id": 3,
+            "topic": "How digital detox can improve well-being"
+          },
+          {
+            "id": 4,
+            "topic": "Mindfulness practices for stress management"
+          },
+          {
+            "id": 5,
+            "topic": "What is overthinking, and how does it impact mental and physical health?"
+          },
+          {
+            "id": 6,
+            "topic": "Benefits of maintaining a healthy sleep cycle"
+          },
+          {
+            "id": 7,
+            "topic": "The importance of healthy eating habits"
+          },
+          {
+            "id": 8,
+            "topic": "Strategies for work-life balance"
+          },
+          {
+            "id": 9,
+            "topic": "Can virtual therapy replace in-person counseling?"
+          },
+          {
+            "id": 10,
+            "topic": "Role of fitness apps in promoting exercise"
+          },
+          {
+            "id": 11,
+            "topic": "How music impacts mental health"
+          },
+          {
+            "id": 12,
+            "topic": "Public speaking as a confidence booster"
+          },
+          {
+            "id": 13,
+            "topic": "Managing screen time for better well-being"
+          },
+          {
+            "id": 14,
+            "topic": "Importance of emotional intelligence in personal relationships"
+          },
+          {
+            "id": 15,
+            "topic": "Impact of physical environments on mental health"
+          },
+          {
+            "id": 16,
+            "topic": "Mental health awareness: Are we doing enough?"
+          },
+          {
+            "id": 17,
+            "topic": "Benefits of meditation on mental and physical health"
+          },
+          {
+            "id": 18,
+            "topic": "The role of physical activity in reducing stress"
+          },
+          {
+            "id": 19,
+            "topic": "How peer pressure influences overall health habits"
+          },
+          {
+            "id": 20,
+            "topic": "Healthy eating vs. fad diets: Which is better?"
+          },
+          {
+            "id": 21,
+            "topic": "How long-standing cultural practices impact health practices"
+          },
+          {
+            "id": 22,
+            "topic": "The importance of emotional well-being in daily life"
+          },
+          {
+            "id": 23,
+            "topic": "Physical health: Is it the key to mental wellness?"
+          },
+          {
+            "id": 24,
+            "topic": "Role of diverse perspectives in improving healthcare systems"
+          },
+          {
+            "id": 25,
+            "topic": "Impact of healthy habits on academic performance"
+          },
+          {
+            "id": 26,
+            "topic": "How can schools promote well-being among students?"
+          },
+          {
+            "id": 27,
+            "topic": "Animal testing for medical research: Ethical or necessary?"
+          },
+          {
+            "id": 28,
+            "topic": "Differences in healthcare systems across cultures"
+          },
+          {
+            "id": 29,
+            "topic": "How public health campaigns influence behavior"
+          },
+          {
+            "id": 30,
+            "topic": "Physical health: The key to longer life expectancy"
+          },
+          {
+            "id": 31,
+            "topic": "How physical activity enhances brain function"
+          },
+          {
+            "id": 32,
+            "topic": "Healthy habits for students"
+          },
+          {
+            "id": 33,
+            "topic": "Importance of developing good dietary habits early"
+          },
+          {
+            "id": 34,
+            "topic": "Role of communication skills in healthcare settings"
+          },
+          {
+            "id": 35,
+            "topic": "Fitness gadgets and their effectiveness"
+          },
+          {
+            "id": 36,
+            "topic": "Physical therapy vs. conventional treatments"
+          },
+          {
+            "id": 37,
+            "topic": "Improving healthcare access"
+          },
+          {
+            "id": 38,
+            "topic": "Managing stress through physical exercise"
+          },
+          {
+            "id": 39,
+            "topic": "How overall health impacts student performance"
+          },
+          {
+            "id": 40,
+            "topic": "How to develop new habits for physical fitness"
+          },
+          {
+            "id": 41,
+            "topic": "Technology's role in monitoring personal health"
+          },
+          {
+            "id": 42,
+            "topic": "How to view sports and fitness as hobbies?"
+          },
+          {
+            "id": 43,
+            "topic": "Physical health vs. mental resilience: Which is more important?"
+          },
+          {
+            "id": 44,
+            "topic": "Strategies to promote overall health in communities"
+          },
+          {
+            "id": 45,
+            "topic": "How communication skills affect healthcare delivery"
+          },
+          {
+            "id": 46,
+            "topic": "New ways to encourage healthy lifestyle choices"
+          },
+          {
+            "id": 47,
+            "topic": "Best physical activities for stress relief"
+          },
+          {
+            "id": 48,
+            "topic": "Can sports boost workplace productivity?"
+          },
+          {
+            "id": 49,
+            "topic": "Different physical fitness practices across cultures"
+          },
+          {
+            "id": 50,
+            "topic": "The role of group activities in promoting fitness"
+          },
+          {
+            "id": 51,
+            "topic": "How students can balance health and academics"
+          },
+          {
+            "id": 52,
+            "topic": "Are fitness trackers useful in maintaining personal health?"
+          },
+          {
+            "id": 53,
+            "topic": "The importance of hydration for physical health"
+          },
+          {
+            "id": 54,
+            "topic": "How teamwork in sports benefits students"
+          },
+          {
+            "id": 55,
+            "topic": "Can yoga improve academic performance?"
+          },
+          {
+            "id": 56,
+            "topic": "Role of dance as a form of exercise"
+          },
+          {
+            "id": 57,
+            "topic": "How different websites promote health awareness"
+          }
+        ]
+      },
+      {
+        "category": "Current Affairs and Global Issues",
+        "topics": [
+          {
+            "id": 1,
+            "topic": "Can individuals make a significant impact on climate change?"
+          },
+          {
+            "id": 2,
+            "topic": "Future of work: Will remote jobs dominate?"
+          },
+          {
+            "id": 3,
+            "topic": "Role of sustainable farming in combating hunger"
+          },
+          {
+            "id": 4,
+            "topic": "How global economies recover from pandemics"
+          },
+          {
+            "id": 5,
+            "topic": "Will electric vehicles replace traditional cars?"
+          },
+          {
+            "id": 6,
+            "topic": "Is recycling effective in reducing pollution?"
+          },
+          {
+            "id": 7,
+            "topic": "Strategies for combating cybercrime globally"
+          },
+          {
+            "id": 8,
+            "topic": "Role of online communities in disaster relief"
+          },
+          {
+            "id": 9,
+            "topic": "Does globalization harm local cultures?"
+          },
+          {
+            "id": 10,
+            "topic": "How e-commerce is changing global trade"
+          },
+          {
+            "id": 11,
+            "topic": "Is green energy the ultimate solution to energy crises?"
+          },
+          {
+            "id": 12,
+            "topic": "How international collaboration can solve global issues"
+          },
+          {
+            "id": 13,
+            "topic": "Can we achieve a plastic-free world?"
+          },
+          {
+            "id": 14,
+            "topic": "Is sustainable tourism the future?"
+          },
+          {
+            "id": 15,
+            "topic": "Digital transformation of global education systems"
+          },
+          {
+            "id": 16,
+            "topic": "Climate change: Should developing countries take more responsibility?"
+          },
+          {
+            "id": 17,
+            "topic": "Global warming: Individual vs. governmental actions"
+          },
+          {
+            "id": 18,
+            "topic": "How different cultures respond to environmental challenges"
+          },
+          {
+            "id": 19,
+            "topic": "Cultural appropriation: How can we foster appreciation instead?"
+          },
+          {
+            "id": 20,
+            "topic": "Impact of global crises on daily life"
+          },
+          {
+            "id": 21,
+            "topic": "Combatting climate change"
+          },
+          {
+            "id": 22,
+            "topic": "Role of big data in understanding current affairs"
+          },
+          {
+            "id": 23,
+            "topic": "Ethical concerns in global trade practices"
+          },
+          {
+            "id": 24,
+            "topic": "Renewable energy: Can it solve the energy crisis?"
+          },
+          {
+            "id": 25,
+            "topic": "Solving international disputes: The role of dialogue and diplomacy"
+          },
+          {
+            "id": 26,
+            "topic": "How abstract topics spark meaningful conversations"
+          },
+          {
+            "id": 27,
+            "topic": "Promoting well-being through climate activism"
+          },
+          {
+            "id": 28,
+            "topic": "How traditions shape national identities"
+          },
+          {
+            "id": 29,
+            "topic": "Does global trade foster cooperation or competition?"
+          },
+          {
+            "id": 30,
+            "topic": "Global environmental initiatives to combat climate change"
+          },
+          {
+            "id": 31,
+            "topic": "Benefits of learning about other cultures"
+          },
+          {
+            "id": 32,
+            "topic": "Exploring the impact of technology on daily life"
+          },
+          {
+            "id": 33,
+            "topic": "Personal perspectives on climate-friendly policies"
+          },
+          {
+            "id": 34,
+            "topic": "Can cultural heritage promote tourism?"
+          },
+          {
+            "id": 35,
+            "topic": "Will electric vehicles replace gasoline cars?"
+          },
+          {
+            "id": 36,
+            "topic": "How students can contribute to global awareness"
+          },
+          {
+            "id": 37,
+            "topic": "Ways to promote global collaboration"
+          },
+          {
+            "id": 38,
+            "topic": "Are developed nations responsible for aiding poorer countries?"
+          },
+          {
+            "id": 39,
+            "topic": "How international trade affects daily life"
+          },
+          {
+            "id": 40,
+            "topic": "How the economy shapes national policies"
+          },
+          {
+            "id": 41,
+            "topic": "Impact of tourism on cultural heritage preservation"
+          },
+          {
+            "id": 42,
+            "topic": "Role of international trade in boosting the economy"
+          },
+          {
+            "id": 43,
+            "topic": "Benefits of learning about cultural traditions from other regions"
+          },
+          {
+            "id": 44,
+            "topic": "Are student-led initiatives effective in raising awareness about global issues?"
+          },
+          {
+            "id": 45,
+            "topic": "How economic sanctions affect developing economies"
+          },
+          {
+            "id": 46,
+            "topic": "Will technology-driven economies dominate the future?"
+          },
+          {
+            "id": 47,
+            "topic": "Is universal basic income a solution to unemployment?"
+          },
+          {
+            "id": 48,
+            "topic": "The impact of economic downturns on education"
+          },
+          {
+            "id": 49,
+            "topic": "How trade agreements foster cooperation between nations"
+          },
+          {
+            "id": 50,
+            "topic": "Exploring ways to solve global challenges"
+          },
+          {
+            "id": 51,
+            "topic": "How deadlines affect productivity in large organizations"
+          },
+          {
+            "id": 52,
+            "topic": "Importance of cultural diplomacy in fostering global unity"
+          }
+        ]
+      },
+      {
+        "category": "Social Issues and Ethics",
+        "topics": [
+          {
+            "id": 1,
+            "topic": "Responsibility in sharing information online"
+          },
+          {
+            "id": 2,
+            "topic": "Are social media influencers setting the right example?"
+          },
+          {
+            "id": 3,
+            "topic": "Is it ethical to use animals for entertainment?"
+          },
+          {
+            "id": 4,
+            "topic": "Role of community service in personal development"
+          },
+          {
+            "id": 5,
+            "topic": "How to tackle misinformation in the digital age"
+          },
+          {
+            "id": 6,
+            "topic": "Is consumerism harming the environment?"
+          },
+          {
+            "id": 7,
+            "topic": "How can online platforms promote healthy discussions?"
+          },
+          {
+            "id": 8,
+            "topic": "Role of individuals in promoting animal welfare"
+          },
+          {
+            "id": 9,
+            "topic": "Impact of fake news on public perception"
+          },
+          {
+            "id": 10,
+            "topic": "Are subscription models benefiting consumers?"
+          },
+          {
+            "id": 11,
+            "topic": "Should companies be responsible for employee mental health?"
+          },
+          {
+            "id": 12,
+            "topic": "Challenges of raising awareness about social issues"
+          },
+          {
+            "id": 13,
+            "topic": "How can schools promote kindness and empathy?"
+          },
+          {
+            "id": 14,
+            "topic": "Influence of digital media on personal privacy"
+          },
+          {
+            "id": 15,
+            "topic": "Should companies focus on ethical consumerism?"
+          },
+          {
+            "id": 16,
+            "topic": "How can diverse perspectives improve decision-making?"
+          },
+          {
+            "id": 17,
+            "topic": "Impact of social media on mental health"
+          },
+          {
+            "id": 18,
+            "topic": "Should animals have the same rights as humans?"
+          },
+          {
+            "id": 19,
+            "topic": "The rise of online activism: Effective or performative?"
+          },
+          {
+            "id": 20,
+            "topic": "Ethical concerns around climate change denial"
+          },
+          {
+            "id": 21,
+            "topic": "Does peer pressure shape opinions on social issues?"
+          },
+          {
+            "id": 22,
+            "topic": "Role of communication styles in resolving conflicts"
+          },
+          {
+            "id": 23,
+            "topic": "Should cultural heritage be monetized for tourism?"
+          },
+          {
+            "id": 24,
+            "topic": "Is healthy eating a personal choice or a social responsibility?"
+          },
+          {
+            "id": 25,
+            "topic": "Ethical dilemmas in modern-day business practices"
+          },
+          {
+            "id": 26,
+            "topic": "Are deadlines destroying creativity in the workplace?"
+          },
+          {
+            "id": 27,
+            "topic": "How can organizations promote ethical concerns in their practices?"
+          },
+          {
+            "id": 28,
+            "topic": "Should cultural appropriation be punishable by law?"
+          },
+          {
+            "id": 29,
+            "topic": "Ways to promote ethical consumerism"
+          },
+          {
+            "id": 30,
+            "topic": "Communication skills: Are they the most important soft skills?"
+          },
+          {
+            "id": 31,
+            "topic": "How to combat misinformation"
+          },
+          {
+            "id": 32,
+            "topic": "Role of diverse perspectives in addressing social challenges"
+          },
+          {
+            "id": 33,
+            "topic": "Challenges of maintaining traditions in modern times"
+          },
+          {
+            "id": 34,
+            "topic": "How public behavior affects environmental efforts"
+          },
+          {
+            "id": 35,
+            "topic": "Is it ethical to use personal data for marketing purposes?"
+          },
+          {
+            "id": 36,
+            "topic": "Are deadlines essential for achieving goals?"
+          },
+          {
+            "id": 37,
+            "topic": "How different cultures influence daily interactions"
+          },
+          {
+            "id": 38,
+            "topic": "What makes a discussion engaging and productive?"
+          },
+          {
+            "id": 39,
+            "topic": "Impact of fast-changing trends on social norms"
+          },
+          {
+            "id": 40,
+            "topic": "How communication styles differ across generations"
+          },
+          {
+            "id": 41,
+            "topic": "How culture and heritage shapes social values"
+          },
+          {
+            "id": 42,
+            "topic": "The role of student initiatives in promoting social change"
+          },
+          {
+            "id": 43,
+            "topic": "Do communication skills determine career success?"
+          },
+          {
+            "id": 44,
+            "topic": "Impact of peer-led discussions on community well-being"
+          },
+          {
+            "id": 45,
+            "topic": "Are societal expectations limiting personal growth?"
+          },
+          {
+            "id": 46,
+            "topic": "How economic growth influences consumer behavior"
+          },
+          {
+            "id": 47,
+            "topic": "Importance of diverse opinions"
+          },
+          {
+            "id": 48,
+            "topic": "Should public transport be made free to combat pollution?"
+          },
+          {
+            "id": 49,
+            "topic": "How new technologies shape human interactions"
+          },
+          {
+            "id": 50,
+            "topic": "The impact of online shopping on local markets"
+          },
+          {
+            "id": 51,
+            "topic": "Can deadlines encourage better decision-making?"
+          },
+          {
+            "id": 52,
+            "topic": "Is it possible to develop ethical consumer habits?"
+          },
+          {
+            "id": 53,
+            "topic": "Role of media in promoting social harmony"
+          },
+          {
+            "id": 54,
+            "topic": "How cultural events foster social connections"
+          }
+        ]
+      },
+      {
+        "category": "Economy and Business Trends",
+        "topics": [
+          {
+            "id": 1,
+            "topic": "Future of the gig economy: A sustainable model?"
+          },
+          {
+            "id": 2,
+            "topic": "Will traditional retail survive in the e-commerce era?"
+          },
+          {
+            "id": 3,
+            "topic": "Challenges of entrepreneurship in a digital world"
+          },
+          {
+            "id": 4,
+            "topic": "The rise of subscription-based business models"
+          },
+          {
+            "id": 5,
+            "topic": "How automation is shaping the workforce"
+          },
+          {
+            "id": 6,
+            "topic": "Can small businesses compete with large corporations?"
+          },
+          {
+            "id": 7,
+            "topic": "Role of branding in consumer choices"
+          },
+          {
+            "id": 8,
+            "topic": "How sustainable products are influencing markets"
+          },
+          {
+            "id": 9,
+            "topic": "Is freelancing the future of work?"
+          },
+          {
+            "id": 10,
+            "topic": "How technology is reshaping supply chains"
+          },
+          {
+            "id": 11,
+            "topic": "Can financial literacy solve personal debt issues?"
+          },
+          {
+            "id": 12,
+            "topic": "Are cashless economies the way forward?"
+          },
+          {
+            "id": 13,
+            "topic": "The importance of work-life balance in business"
+          },
+          {
+            "id": 14,
+            "topic": "How startups are driving innovation"
+          },
+          {
+            "id": 15,
+            "topic": "Will automation lead to job loss or job creation?"
+          },
+          {
+            "id": 16,
+            "topic": "Cashless economy: Is the world ready?"
+          },
+          {
+            "id": 17,
+            "topic": "How the gig economy is reshaping modern society"
+          },
+          {
+            "id": 18,
+            "topic": "Renewable energy markets: Future potential and challenges"
+          },
+          {
+            "id": 19,
+            "topic": "Big data: Pros and cons"
+          },
+          {
+            "id": 20,
+            "topic": "How ethical concerns shape consumer behavior"
+          },
+          {
+            "id": 21,
+            "topic": "Economic growth vs. environmental sustainability"
+          },
+          {
+            "id": 22,
+            "topic": "Will automation eliminate or create jobs?"
+          },
+          {
+            "id": 23,
+            "topic": "How do we predict future economic trends?"
+          },
+          {
+            "id": 24,
+            "topic": "Importance of cultural heritage in tourism economies"
+          },
+          {
+            "id": 25,
+            "topic": "New sustainable practices in business"
+          },
+          {
+            "id": 26,
+            "topic": "Are deadlines essential for productivity or harmful to creativity?"
+          },
+          {
+            "id": 27,
+            "topic": "Benefits of global trade for developing countries"
+          },
+          {
+            "id": 28,
+            "topic": "Can entrepreneurship solve environmental challenges?"
+          },
+          {
+            "id": 29,
+            "topic": "Latest trends in consumer behavior"
+          },
+          {
+            "id": 30,
+            "topic": "Are gig economies sustainable in the long term?"
+          },
+          {
+            "id": 31,
+            "topic": "The role of communication in successful business ventures"
+          },
+          {
+            "id": 32,
+            "topic": "Trends in digital marketing"
+          },
+          {
+            "id": 33,
+            "topic": "Consumer Trends in 2024"
+          },
+          {
+            "id": 34,
+            "topic": "Will automation lead to economic stagnation or growth?"
+          },
+          {
+            "id": 35,
+            "topic": "How diverse perspectives improve business strategies"
+          },
+          {
+            "id": 36,
+            "topic": "Future of online retail: Predictions and challenges"
+          },
+          {
+            "id": 37,
+            "topic": "The role of cultural traditions in shaping buying habits"
+          },
+          {
+            "id": 38,
+            "topic": "What leads to better decision-making?"
+          },
+          {
+            "id": 39,
+            "topic": "How new trends affect employee productivity"
+          },
+          {
+            "id": 40,
+            "topic": "Benefits of using big data for business forecasting"
+          },
+          {
+            "id": 41,
+            "topic": "Should companies prioritize employee well-being?"
+          },
+          {
+            "id": 42,
+            "topic": "What shapes the job market"
+          },
+          {
+            "id": 43,
+            "topic": "How the gig economy is reshaping traditional jobs"
+          },
+          {
+            "id": 44,
+            "topic": "Will online retail replace physical stores completely?"
+          },
+          {
+            "id": 45,
+            "topic": "Role of research and development in product development"
+          },
+          {
+            "id": 46,
+            "topic": "Can a better economy help startups drive sustainably?"
+          },
+          {
+            "id": 47,
+            "topic": "How culture influences business branding"
+          },
+          {
+            "id": 48,
+            "topic": "The impact of new technologies on market competition"
+          },
+          {
+            "id": 49,
+            "topic": "Should businesses invest in employee wellness programs?"
+          },
+          {
+            "id": 50,
+            "topic": "How the economy affects consumer spending patterns"
+          },
+          {
+            "id": 51,
+            "topic": "Is remote work here to stay?"
+          },
+          {
+            "id": 52,
+            "topic": "Boosting entrepreneurship among students"
+          },
+          {
+            "id": 53,
+            "topic": "How deadlines affect creativity in business environments"
+          },
+          {
+            "id": 54,
+            "topic": "Is sustainable business the key to the future economy?"
+          },
+          {
+            "id": 55,
+            "topic": "Will automation create more opportunities or challenges?"
+          },
+          {
+            "id": 56,
+            "topic": "Importance of data-driven decisions in businesses"
+          }
+        ]
+      },
+      {
+        "category": "Diversity and Inclusion",
+        "topics": [
+          {
+            "id": 1,
+            "topic": "How does inclusion in the workplace foster innovation?"
+          },
+          {
+            "id": 2,
+            "topic": "The role of schools in promoting cultural understanding"
+          },
+          {
+            "id": 3,
+            "topic": "How can businesses ensure they are truly inclusive?"
+          },
+          {
+            "id": 4,
+            "topic": "The impact of inclusive media representation on society"
+          },
+          {
+            "id": 5,
+            "topic": "How diversity drives creativity in the arts"
+          },
+          {
+            "id": 6,
+            "topic": "Should companies have quotas to promote diversity?"
+          },
+          {
+            "id": 7,
+            "topic": "How does celebrating diversity strengthen communities?"
+          },
+          {
+            "id": 8,
+            "topic": "The role of language in fostering inclusion"
+          },
+          {
+            "id": 9,
+            "topic": "The benefits of learning about different cultures from a young age"
+          },
+          {
+            "id": 10,
+            "topic": "Can inclusion initiatives reduce social divisions?"
+          },
+          {
+            "id": 11,
+            "topic": "How can sports promote equality and diversity?"
+          },
+          {
+            "id": 12,
+            "topic": "The impact of inclusive policies on educational outcomes"
+          },
+          {
+            "id": 13,
+            "topic": "What role do government policies play in promoting inclusion?"
+          },
+          {
+            "id": 14,
+            "topic": "How can social media influence attitudes toward diversity?"
+          },
+          {
+            "id": 15,
+            "topic": "How can we make spaces more accessible for individuals with disabilities?"
+          },
+          {
+            "id": 16,
+            "topic": "The importance of diversity in the film and television industries"
+          },
+          {
+            "id": 17,
+            "topic": "How can businesses create more inclusive marketing campaigns?"
+          },
+          {
+            "id": 18,
+            "topic": "How does representation in leadership roles affect workplace dynamics?"
+          },
+          {
+            "id": 19,
+            "topic": "What role does literature play in fostering an understanding of diversity?"
+          },
+          {
+            "id": 20,
+            "topic": "How can we combat stereotypes through inclusive education?"
+          },
+          {
+            "id": 21,
+            "topic": "How can schools teach the value of inclusion from a young age?"
+          },
+          {
+            "id": 22,
+            "topic": "The impact of diverse leadership on corporate success"
+          },
+          {
+            "id": 23,
+            "topic": "How to build more inclusive sports teams"
+          },
+          {
+            "id": 24,
+            "topic": "The role of media in reflecting or distorting diversity"
+          },
+          {
+            "id": 25,
+            "topic": "How can businesses promote diversity in hiring practices?"
+          },
+          {
+            "id": 26,
+            "topic": "The importance of diversity in tech innovation"
+          },
+          {
+            "id": 27,
+            "topic": "How different cultural holidays can be celebrated inclusively"
+          },
+          {
+            "id": 28,
+            "topic": "How diversity in the classroom benefits all students"
+          },
+          {
+            "id": 29,
+            "topic": "Why is inclusive design important for public spaces?"
+          },
+          {
+            "id": 30,
+            "topic": "How can schools promote diversity in extracurricular activities?"
+          },
+          {
+            "id": 31,
+            "topic": "The impact of inclusive advertising on brand perception"
+          },
+          {
+            "id": 32,
+            "topic": "How festivals celebrating diversity foster unity"
+          },
+          {
+            "id": 33,
+            "topic": "How do language barriers challenge inclusion in global teams?"
+          },
+          {
+            "id": 34,
+            "topic": "The role of social clubs in promoting inclusivity"
+          },
+          {
+            "id": 35,
+            "topic": "How to measure the effectiveness of inclusion programs in schools"
+          },
+          {
+            "id": 36,
+            "topic": "The role of mentorship in promoting diversity in the workplace"
+          },
+          {
+            "id": 37,
+            "topic": "How universities can ensure diverse faculty representation"
+          },
+          {
+            "id": 38,
+            "topic": "How diverse food cultures contribute to global cuisine"
+          },
+          {
+            "id": 39,
+            "topic": "Should public institutions have diversity training for all staff?"
+          },
+          {
+            "id": 40,
+            "topic": "How can art and music promote messages of inclusion?"
+          }
+        ]
+      },
+      {
+        "category": "Personal Development and Skills",
+        "topics": [
+          {
+            "id": 1,
+            "topic": "Role of public speaking in professional growth"
+          },
+          {
+            "id": 2,
+            "topic": "How emotional intelligence improves teamwork"
+          },
+          {
+            "id": 3,
+            "topic": "Importance of critical thinking in decision-making"
+          },
+          {
+            "id": 4,
+            "topic": "Benefits of journaling for mental clarity"
+          },
+          {
+            "id": 5,
+            "topic": "Developing self-motivation for long-term goals"
+          },
+          {
+            "id": 6,
+            "topic": "Time management techniques for busy lifestyles"
+          },
+          {
+            "id": 7,
+            "topic": "How to overcome the fear of failure"
+          },
+          {
+            "id": 8,
+            "topic": "Importance of networking in career growth"
+          },
+          {
+            "id": 9,
+            "topic": "Strategies to boost self-discipline"
+          },
+          {
+            "id": 10,
+            "topic": "How feedback helps in personal growth"
+          },
+          {
+            "id": 11,
+            "topic": "Benefits of embracing lifelong learning"
+          },
+          {
+            "id": 12,
+            "topic": "Developing resilience in the face of setbacks"
+          },
+          {
+            "id": 13,
+            "topic": "Role of empathy in leadership"
+          },
+          {
+            "id": 14,
+            "topic": "Mind mapping as a problem-solving tool"
+          },
+          {
+            "id": 15,
+            "topic": "How can students improve their decision-making skills"
+          },
+          {
+            "id": 16,
+            "topic": "Should students practice mindfulness to enhance productivity?"
+          },
+          {
+            "id": 17,
+            "topic": "Importance of collaborative learning for personal growth"
+          },
+          {
+            "id": 18,
+            "topic": "How research skills benefit students beyond academics"
+          },
+          {
+            "id": 19,
+            "topic": "How to foster creativity among students"
+          },
+          {
+            "id": 20,
+            "topic": "Benefits of participating in collaborative activities to boost confidence building"
+          },
+          {
+            "id": 21,
+            "topic": "What encourages problem-solving skills"
+          },
+          {
+            "id": 22,
+            "topic": "How your background shapes interpersonal skills"
+          },
+          {
+            "id": 23,
+            "topic": "Can students learn better through interactive discussions?"
+          },
+          {
+            "id": 24,
+            "topic": "Ways to help students develop resilience"
+          },
+          {
+            "id": 25,
+            "topic": "The importance of time management skills in academic success"
+          },
+          {
+            "id": 26,
+            "topic": "How a country's culture influences leadership styles"
+          },
+          {
+            "id": 27,
+            "topic": "Role of personal habits in achieving long-term success"
+          },
+          {
+            "id": 28,
+            "topic": "How new trends in education promote self-discipline"
+          },
+          {
+            "id": 29,
+            "topic": "Are deadlines necessary for building effective work habits?"
+          },
+          {
+            "id": 30,
+            "topic": "How to improve teamwork among students"
+          },
+          {
+            "id": 31,
+            "topic": "How participation in GD topics helps students explore diverse opinions"
+          },
+          {
+            "id": 32,
+            "topic": "Importance of adaptability in a rapidly changing world"
+          },
+          {
+            "id": 33,
+            "topic": "Should students engage in competitive discussions to build assertiveness?"
+          }
+        ]
+      }
+    ]
+  }
